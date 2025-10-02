@@ -1,4 +1,4 @@
-/* Hero Section */
+
 .hero-section {
   padding: 100px 20px;
   text-align: center;
@@ -202,3 +202,4 @@
     flex-direction: column;
   }
 }
+
